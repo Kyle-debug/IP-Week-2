@@ -29,3 +29,10 @@ h1 {
         opacity: 0.9;
         border-radius: 10px;
       }
+
+h2{
+        text-align: center;
+        font-weight: bold;
+        color:rgb(255, 255, 255);
+        font-family: 'Quattrocento', serif;
+      }
