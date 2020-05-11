@@ -3,7 +3,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     }
-    
+
 h1 {
         font-family: 'Gugi', cursive;
         font-weight: bolder;
@@ -16,3 +16,8 @@ h1 {
         text-shadow: 2px 2px 5px black;
         
     }
+
+.page-footer{
+        background-color: rgb(0,0,0,0.8); 
+        width: 100%;
+      }
